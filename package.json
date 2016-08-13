@@ -1,0 +1,10 @@
+{
+  "name": "visual.js",
+  "version": "1.0.0",
+  "description": "Javascript visualiation library",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.0.0"
+  }
+}
