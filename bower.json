@@ -1,0 +1,21 @@
+{
+  "name": "visual.js",
+  "description": "Javascript visualiation library",
+  "license": "ISC",
+  "homepage": "https://github.com/singun/visual.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.0"
+  },
+  "install": {
+    "path": {
+      "js": "static/js"
+    }
+  }
+}
